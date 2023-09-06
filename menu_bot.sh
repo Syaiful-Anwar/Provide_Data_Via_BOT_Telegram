@@ -2,7 +2,7 @@ idbot=6281616364
 apikey=AAEIrUBFOUaAQyL8hgmht0bo_0KN638F3Dk
 idchat=-941934550
 
-menubot=`cat bot_menu`
+menubot=`cat bot_menu.txt`
 
 read -r -d '' pesan <<EOT
 <b>BOT MENU</b>
