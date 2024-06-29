@@ -4,3 +4,4 @@
 - Monitoring Jobs on Server
 
 U can adding new menu from runner_bot.sh
+edit your bot id, apikey and chat_id
